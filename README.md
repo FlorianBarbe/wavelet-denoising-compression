@@ -27,7 +27,6 @@ TP_DWT/
 │   ├── cameraman.tif
 │   └── WaveLab802_datasim2026/
 ├── figures/
-├── compte_rendu_DWT_etat_actuel.tex
 └── compte_rendu_DWT_etat_actuel.pdf
 ```
 
@@ -132,7 +131,6 @@ TP_DWT/
 │   ├── cameraman.tif
 │   └── WaveLab802_datasim2026/
 ├── figures/
-├── compte_rendu_DWT_etat_actuel.tex
 └── compte_rendu_DWT_etat_actuel.pdf
 ```
 
