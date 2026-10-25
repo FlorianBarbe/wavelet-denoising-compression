@@ -1,0 +1,15 @@
+TPHaar_01.png : 
+TPHaar_02.png : 
+TPHaar_03.png : 
+TPHaar_04.png : 
+TPHaar_05.png : Blocks - DWT - Haar
+TPHaar_06.png : Blocks - DWT bruitée - Haar
+TPHaar_07.png : Blocks - DWT - Daubechies 4
+TPHaar_08.png : Blocks - DWT bruitée - Daubechies 4
+TPHaar_09.png : Doppler - DWT - Haar
+TPHaar_10.png : Doppler - DWT bruitée - Haar
+TPHaar_11.png : Doppler - DWT - Daubechies 4
+TPHaar_12.png : Doppler - DWT bruitée - Daubechies 4
+TPHaar_13.png : Comparaison des débruitages - Blocks
+TPHaar_14.png : Comparaison des débruitages - Doppler
+TPHaar_15.png : Erreurs et seuils - Blocks et Doppler
