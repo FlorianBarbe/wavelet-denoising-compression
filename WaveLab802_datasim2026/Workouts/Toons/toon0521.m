@@ -1,0 +1,1 @@
+% toon0521 -- Progressive Transmission%%  Show the MRI image of the brain%brain = ReadImage('MRIScan');AutoImage(brain);title('MRI Image of the Brain');        %   % Part of WaveLab Version 802% Built Sunday, October 3, 1999 8:52:27 AM% This is Copyrighted Material% For Copying permissions see COPYING.m% Comments? e-mail wavelab@stat.stanford.edu%       

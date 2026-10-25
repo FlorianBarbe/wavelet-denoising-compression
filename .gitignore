@@ -1,0 +1,27 @@
+# Dossiers privés et exports de travail
+/figures/
+/pas exorter/
+
+# Compilation LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Sauvegardes
+*.asv
+*.bak
+*.m~
+sauvegarde_*/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Journal de contrôle
+controle_execution.txt

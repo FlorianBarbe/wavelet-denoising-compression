@@ -1,0 +1,1 @@
+% toon1103 -- Cosine Packet Analysis on Doppler%	n = 1024;	D = 5;%	signal = MakeSignal('Doppler', n);	CPTour('P', signal, D, 'Doppler');        %   % Part of WaveLab Version 802% Built Sunday, October 3, 1999 8:52:27 AM% This is Copyrighted Material% For Copying permissions see COPYING.m% Comments? e-mail wavelab@stat.stanford.edu%       
