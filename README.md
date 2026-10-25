@@ -4,7 +4,7 @@ An introduction to the Discrete Wavelet Transform (DWT) with MATLAB, covering sc
 
 **Author: Florian Barbe**
 
-[Read the report — in French](compte_rendu_DWT_etat_actuel.pdf)
+[Read the report — in French](TP_DWT_AGOSTINI_BARBE.pdf)
 
 ## Contents
 
@@ -108,7 +108,7 @@ Travail réalisé dans le cadre de l’option DATASIM à Centrale Nantes.
 
 **Auteur : Florian Barbe**
 
-[Lire le compte rendu](compte_rendu_DWT_etat_actuel.pdf)
+[Lire le compte rendu](TP_DWT_AGOSTINI_BARBE.pdf)
 
 ## Contenu
 
