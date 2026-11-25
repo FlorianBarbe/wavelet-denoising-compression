@@ -4,6 +4,16 @@ An introduction to the Discrete Wavelet Transform (DWT) with MATLAB, covering sc
 
 **Author: Florian Barbe**
 
+## Travail réalisé
+
+- Scripts MATLAB d'étude des ondelettes de Haar et Daubechies 4.
+- Débruitage de signaux par seuillage et comparaison des erreurs de reconstruction.
+- Compression d'images par sélection de coefficients et analyse de la qualité reconstruite.
+
+Les scripts utilisent WaveLab et les extensions pédagogiques DATASIM,
+qui restent attribués à leurs auteurs respectifs.
+
+
 [Read the report — in French](TP_DWT_AGOSTINI_BARBE.pdf)
 
 ## Contents
